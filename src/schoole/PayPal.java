@@ -7,7 +7,7 @@ package schoole;
 
 /**
  *
- * @author Goldy
+ * 
  */
 public class PayPal implements Payment {
     private String email;

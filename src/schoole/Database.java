@@ -7,7 +7,7 @@ package schoole;
 
 /**
  *
- * @author Zeyad Mohamed
+ *
  */
 import java.sql.Connection;
 import java.sql.DriverManager;

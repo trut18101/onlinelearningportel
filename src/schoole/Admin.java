@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Goldy
+ * 
  */
 public class Admin {
     private final String A_username="Admin";

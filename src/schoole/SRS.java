@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Goldy
+ * 
  */
 public class SRS implements ObserverSubject {
 

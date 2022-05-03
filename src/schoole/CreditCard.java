@@ -7,7 +7,7 @@ package schoole;
 
 /**
  *
- * @author Goldy
+ *
  */
 public class CreditCard implements Payment {
 
